@@ -9,6 +9,10 @@ Synthosophy is a groundbreaking framework that integrates human reasoning and ar
 - **🔍 Providing a verifiable record of intellectual ownership.**  
 - **📖 Sharing the principles of Synthosophy with a global audience.**  
 - **💡 Encouraging discussions on AI-human collaboration, philosophy, and ethics.**  
+## 📜 Synthosophy Manifesto (Download)
+The official Synthosophy Manifesto is available for download:
+
+📄 [Synthosophy_Manifesto.pdf](./Synthosophy_Manifesto.pdf)
 
 ## **Timestamp & Ownership**  
 - **Original Manifesto Version:** *[Version 1.0 uploaded on 2025-02-16]*  
