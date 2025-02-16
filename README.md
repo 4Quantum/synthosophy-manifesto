@@ -1,4 +1,4 @@
-# Synthosophy Manifesto  
+# 📜 Synthosophy Manifesto  
 🚀 *Exploring the Fusion of Human and Synthetic Intelligence*  
 
 ## **What is Synthosophy?**  
@@ -9,23 +9,25 @@ Synthosophy is a groundbreaking framework that integrates human reasoning and ar
 - **🔍 Providing a verifiable record of intellectual ownership.**  
 - **📖 Sharing the principles of Synthosophy with a global audience.**  
 - **💡 Encouraging discussions on AI-human collaboration, philosophy, and ethics.**  
-## 📜 Synthosophy Manifesto (Download)
-The official Synthosophy Manifesto is available for download:
 
-📄 [Synthosophy_Manifesto.pdf](./Synthosophy_Manifesto.pdf)
+## 📄 **Download the Synthosophy Manifesto**  
+🔗 **[Download PDF](./Synthosophy_Manifesto_v2.pdf)**  
 
-## **Timestamp & Ownership**  
-- **Original Manifesto Version:** *[Version 1.0 uploaded on 2025-02-16]*  
-- **Cryptographic Proof:** [OpenTimestamps Verification Pending]  
-- **Publicly Verifiable:** This repository serves as an official record of the document’s existence as of the commit date.  
+## **Licensing & Copyright**  
+© 2024 Synthosophy Project. **All Rights Reserved.**  
 
-## **Next Steps**  
-- 🏛️ Further research and refinement of Synthosophy.  
-- 🔗 Publishing to Zenodo for academic recognition.  
-- 📜 Future copyright registration.  
+This document is protected under international copyright laws. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations in critical reviews and certain other noncommercial uses permitted by copyright law.  
 
-💡 *For discussions, contributions, or collaborations, feel free to open an issue or reach out.*  
+For inquiries or permissions, contact **[Your Email Here]**.  
 
 ---
-🔗 **GitHub Repository:** [YourRepoLinkHere]  
-🛡️ **Ownership & Timestamp:** Commit history verified on GitHub and OpenTimestamps.  
+
+## **Next Steps & Roadmap**  
+- 🏛️ Further research and refinement of Synthosophy.  
+- 🔗 Publishing to Zenodo for academic recognition.  
+- 📜 Exploring additional legal protections & strategic funding.  
+
+📌 **This repository serves as an official record of Synthosophy’s existence as of the commit date.**  
+
+---
+
